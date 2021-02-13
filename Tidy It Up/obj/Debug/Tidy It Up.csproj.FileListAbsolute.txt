@@ -1,0 +1,7 @@
+C:\Users\kathe\source\repos\Tidy It Up\Tidy It Up\bin\Debug\Tidy It Up.exe.config
+C:\Users\kathe\source\repos\Tidy It Up\Tidy It Up\bin\Debug\Tidy It Up.exe
+C:\Users\kathe\source\repos\Tidy It Up\Tidy It Up\bin\Debug\Tidy It Up.pdb
+C:\Users\kathe\source\repos\Tidy It Up\Tidy It Up\obj\Debug\Tidy It Up.csprojAssemblyReference.cache
+C:\Users\kathe\source\repos\Tidy It Up\Tidy It Up\obj\Debug\Tidy It Up.csproj.CoreCompileInputs.cache
+C:\Users\kathe\source\repos\Tidy It Up\Tidy It Up\obj\Debug\Tidy It Up.exe
+C:\Users\kathe\source\repos\Tidy It Up\Tidy It Up\obj\Debug\Tidy It Up.pdb
